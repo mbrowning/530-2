@@ -1,0 +1,59 @@
+/*Base Styles*/
+
+/*
+These styles are intended to put back in some of the expected
+formatting of common tags. They are replicated in screen.css
+and print.css.
+Although you can add more here and load base.css in your XHTML,
+you might consider just adding any additional base styles to
+your own screen.css and/or print.css files.
+*/
+
+/*Re-add bold to headings, b, and strong*/
+h1,h2,h3,h4,h5,h6,b,strong { font-weight: bold; }
+/*Re-add italic to i, em, and cite.*/
+i,em,cite { font-style: italic; }
+/*Re-add dotted border and help cursor to abbr and acronym*/
+abbr,acronym { border-bottom: 1px dotted; cursor: help; }
+
+
+body {
+font-family: Helvetica, Arial, sans-serif;
+background-image: url('gfx/jpg');
+}
+	 
+a:link {
+text-decoration:none; color:black;
+}
+	
+a:hover {
+text-decoration:underline;
+}
+
+h1 {
+font-size: 75pt; border-bottom: 0px solid black;
+}
+
+h2 {
+ margin-top: 20px; margin-bottom: 5px; font-size: 16pt;
+}
+
+ul {
+ margin-top: 0px; 
+}
+
+ul#contact-info {
+ margin-bottom: 20px;
+}
+
+ul.education {
+ margin-bottom: 20px;
+}
+
+li {
+ list-style-type: disc;
+}
+
+div#navigation {
+ float;
+}

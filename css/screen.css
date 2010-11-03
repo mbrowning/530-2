@@ -31,15 +31,16 @@ text-decoration:underline;
 }
 
 h1 {
-font-size: 75pt; border-bottom: 0px solid black;
+font-size: 75pt; border-bottom: 0px solid black; margin-bottom: 20px;
 }
 
 h2 {
- margin-top: 20px; margin-bottom: 5px; font-size: 16pt;
+ margin-top: 80px; margin-bottom: 20px; font-size: 24pt;
 }
 
 ul {
  margin-top: 0px; 
+ margin-bottom: 20px;
 }
 
 ul#contact-info {
@@ -50,10 +51,25 @@ ul.education {
  margin-bottom: 20px;
 }
 
-li {
- list-style-type: disc;
+ul#navigation {
+
 }
 
-div#navigation {
- float;
+ul#navigation li {
+ float: left;
+ m
+}
+
+ul#navigation li a {
+	display: inline;
+	margin-right: 5px;
+	padding: 32px 20px 12px 20px;
+}
+
+ul.details {
+padding-left: 20px;
+}
+
+ul.details li {
+list-style-type: disc;
 }

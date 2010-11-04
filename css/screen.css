@@ -20,6 +20,7 @@ abbr,acronym { border-bottom: 1px dotted; cursor: help; }
 body {
 font-family: Helvetica, Arial, sans-serif;
 background-image: url('gfx/jpg');
+line-height: 1.2;
 }
 	 
 a:link {
@@ -39,20 +40,13 @@ h2 {
 }
 
 ul {
- margin-top: 0px; 
- margin-bottom: 20px;
+ margin-bottom: 0px;
 }
 
 ul#contact-info {
- margin-bottom: 20px;
-}
-
-ul.education {
- margin-bottom: 20px;
 }
 
 ul#navigation {
-
 }
 
 ul#navigation li {
@@ -72,4 +66,12 @@ padding-left: 20px;
 
 ul.details li {
 list-style-type: disc;
+}
+
+ul.details-spacing {
+margin-bottom: 10px;
+}
+
+ul.item-spacing {
+margin-bottom: 15px;
 }

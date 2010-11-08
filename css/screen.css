@@ -16,6 +16,9 @@ i,em,cite { font-style: italic; }
 /*Re-add dotted border and help cursor to abbr and acronym*/
 abbr,acronym { border-bottom: 1px dotted; cursor: help; }
 
+div#page {
+ padding-left: 80px;
+}
 
 body {
  font-family: Helvetica, Arial, sans-serif;

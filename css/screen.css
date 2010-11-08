@@ -50,7 +50,7 @@ h2 {
 
 h3 {
  font-size: 18pt;
- margin-left: 250px;
+ margin-left: 300px;
  margin-top: 37px;
  margin-bottom: 20px;
 }
@@ -86,7 +86,7 @@ ul#navigation-side {
 }
 
 ul#navigation-side li {
-list-style-type: disc;
+list-style-type: none;
 }
 
 ul.details {
@@ -120,7 +120,7 @@ div#header {
 }
 
 div.resume-text {
- padding-left: 250px;
+ padding-left: 300px;
  padding-right: 221px;
  padding-top: 15px;
  line-height: 1.5;

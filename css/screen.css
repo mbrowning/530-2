@@ -51,7 +51,7 @@ h2 {
  font-size: 32pt;
 }
 
-h3 {
+h3.resume {
  font-size: 18pt;
  margin-left: 300px;
  margin-top: 37px;
@@ -131,4 +131,24 @@ div.resume-text {
 
 div#contact {
  padding-left: 20px;
+}
+
+div.p-text {
+ padding-left: 20px;
+ padding-right: 221px;
+ padding-top: 15px;
+ line-height: 1.5;
+}
+
+img.martini {
+ margin-left: 200px;
+ border: 1pt solid;
+ margin-bottom: 50px;
+}
+
+h3.portfolio {
+ font-size: 18pt;
+ margin-left: 200px;
+ margin-bottom: 20px;
+ margin-top: 38px;
 }

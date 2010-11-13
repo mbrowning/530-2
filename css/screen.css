@@ -148,7 +148,7 @@ div.p-text {
 img.portfolio {
  margin-left: 300px;
  border: 1pt solid;
- margin-bottom: 300px;
+ margin-bottom: 20px;
 }
 
 h3.portfolio {
@@ -162,10 +162,22 @@ p.portfolio {
  margin-left: 300px;
  margin-right: 221px;
  margin-bottom: 300px;
- margin-top: 38px;
+ line-height: 1.5;
+}
+
+div.portfolio-sub{
+ margin-left: 300px;
+ margin-right: 320px;
+ margin-bottom:;
  line-height: 1.5;
 }
 
 a.portfolio {
   margin-left: 300px;
  }
+ 
+p.sub-sub {
+ margin-top: 10px;
+ margin-bottom: 300px
+}
+

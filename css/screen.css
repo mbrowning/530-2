@@ -148,7 +148,7 @@ div.p-text {
 img.portfolio {
  margin-left: 300px;
  border: 1pt solid;
- margin-bottom: 50px;
+ margin-bottom: 300px;
 }
 
 h3.portfolio {
@@ -157,3 +157,15 @@ h3.portfolio {
  margin-bottom: 20px;
  margin-top: 38px;
 }
+
+p.portfolio {
+ margin-left: 300px;
+ margin-right: 221px;
+ margin-bottom: 300px;
+ margin-top: 38px;
+ line-height: 1.5;
+}
+
+a.portfolio {
+  margin-left: 300px;
+ }

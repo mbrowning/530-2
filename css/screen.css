@@ -178,6 +178,9 @@ a.portfolio {
  
 p.sub-sub {
  margin-top: 10px;
- margin-bottom: 300px
+ margin-bottom: 300px;
 }
 
+div.scroll-space {
+ margin-bottom: 300px;
+}

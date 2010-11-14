@@ -158,6 +158,12 @@ h3.portfolio {
  margin-top: 38px;
 }
 
+h4.portfolio {
+ font-size: pt;
+ margin-left: 300px;
+ margin-bottom: 15px;
+}
+
 p.portfolio {
  margin-left: 300px;
  margin-right: 221px;
@@ -173,7 +179,8 @@ div.portfolio-sub{
 }
 
 a.portfolio {
-  margin-left: 300px;
+ margin-left: 300px;
+ margin-bottom: 10px;
  }
  
 p.sub-sub {
@@ -183,4 +190,28 @@ p.sub-sub {
 
 div.scroll-space {
  margin-bottom: 300px;
+}
+
+div#soundcloud {
+ margin-top: 20px;
+ margin-left: 300px;
+}
+
+div#soundcloud-sub {
+ margin-top: 20px;
+}
+
+div#soundcloud-link {
+ margin-top: 10px;
+}
+
+p.press-release {
+ margin-left: 300px;
+ margin-right: 221px;
+ margin-bottom: 10px;
+ line-height: 1.5;
+}
+
+div.twenty-px-top {
+ margin-top: 25px;
 }

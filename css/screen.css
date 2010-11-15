@@ -26,22 +26,20 @@ body {
  line-height: 1;
 }
 	 
-a:link {
- text-decoration:none; color:black;
+a {
+ text-decoration:none;
 }
 	
 a:hover {
  text-decoration:underline;
 }
 
-a: visited {
- text-decoration: none;
-}
-
 h1 {
  font-size: 75pt; 
  border-bottom: 0px solid black; 
  margin-bottom: 20px;
+ margin-top: 5px; 
+ text-decoration: none;
 }
 
 h1 a:visited {
@@ -162,12 +160,14 @@ h4.portfolio {
  font-size: pt;
  margin-left: 300px;
  margin-bottom: 15px;
+ margin-top: 37px;
 }
 
 p.portfolio {
  margin-left: 300px;
  margin-right: 221px;
  margin-bottom: 300px;
+ margin-top: 37px;
  line-height: 1.5;
 }
 
@@ -218,5 +218,5 @@ div.twenty-px-top {
 
 div#header ul.accessibility {
  position: absolute;
- lef: -10000px;
+ left: -10000px;
 }

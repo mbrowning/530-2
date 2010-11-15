@@ -110,6 +110,15 @@ text-decoration: none;
 color: black;
 }
 
+ul.details {
+ padding-left: 20px;
+ margin-bottom: 20px;
+}
+
+ul.details li {
+ list-style-type: disc;
+}
+
 ul.details-spacing {
  margin-bottom: 10px;
 }

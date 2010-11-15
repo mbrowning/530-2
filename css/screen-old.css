@@ -96,10 +96,10 @@ ul#navigation-main li a {
 
 ul#navigation-side {
  position: absolute;
- top: 255px;
- bottom: 50px;
+ margin-top: 150px;
+ margin-bottom: 50px;
  line-height: 2.0;
- left: 100px;
+ padding-left: 20px;
  text-decoration: none;
  display: inline-block;
 }
@@ -108,6 +108,15 @@ ul#navigation-side li a {
 list-style-type: none;
 text-decoration: none;
 color: black;
+}
+
+ul.details {
+ padding-left: 20px;
+ margin-bottom: 20px;
+}
+
+ul.details li {
+ list-style-type: disc;
 }
 
 ul.details-spacing {
@@ -163,6 +172,7 @@ h3.portfolio {
 }
 
 h4.portfolio {
+ font-size: pt;
  margin-left: 300px;
  margin-bottom: 15px;
  margin-top: 37px;
@@ -179,6 +189,7 @@ p.portfolio {
 div.portfolio-sub{
  margin-left: 300px;
  margin-right: 320px;
+ margin-bottom:;
  line-height: 1.5;
 }
 

@@ -34,7 +34,7 @@
 				<li><a href="summary.htm">Resume</a></li> 
 				<li><a href="martini.htm">Portfolio</a></li> 
 				<li><a href="contact.htm">Contact</a></li>
-				<li><a href="twitter.htm">Twitter</a></li>
+				<li><a href="twitter.php">Twitter</a></li>
 	</ul>
 
 		
